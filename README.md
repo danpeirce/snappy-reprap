@@ -18,6 +18,9 @@ Dev Forum            | https://groups.google.com/forum/#!forum/snappy-reprap-dev
 
 [![Join the chat at https://gitter.im/revarbat/snappy-reprap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/revarbat/snappy-reprap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+This Fork
+=========
+This branch of my fork is where I might make changes. Nothing yet as I am just thinking about it.
 
 Generating STL Files
 ====================
